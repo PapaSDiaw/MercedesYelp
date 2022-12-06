@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MercedezYelpTest</string>
+    <string name="request_permission">Permission is needed to continue</string>
+    <string name="permission_denied">Permission is denied, cannot show Hot and New Restaurants near you!</string>
+    <string name="price">Price: %1$s</string>
+    <string name="location">Adress: %1$s</string>
+    <string name="rating">Rating: %1$s</string>
+    <string name="name">Restaurant Name: %1$s</string>
+    <string name="distance">Distance: %1$s</string>
+    <string name="phone">Phone: %1$s</string>
+</resources>
